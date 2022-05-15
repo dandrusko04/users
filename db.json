@@ -1,0 +1,32 @@
+{
+    "users": [{
+            "id": 1,
+            "last": "L",
+            "drink": "Pina Colada",
+            "first": "Wesley",
+            "avatar": "https://unsplash.com/photos/FV_PxCqgtwc"
+        },
+        {
+            "id": 2,
+            "last": "A",
+            "drink": "Cranberry Juice",
+            "first": "Delilah",
+            "avatar": "https://unsplash.com/photos/_6rR_iP06p4"
+        },
+        {
+            "id": 3,
+            "last": "E",
+            "drink": "Strawberry Smoothie",
+            "first": "Sam",
+            "avatar": "https://unsplash.com/photos/OOE4xAnBhKo"
+        },
+        {
+            "id": 4,
+            "last": "V",
+            "drink": "Water",
+            "first": "Randy",
+            "avatar": "https://unsplash.com/photos/lWBZ01XRRoI"
+        }
+
+    ]
+}
